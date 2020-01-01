@@ -1,0 +1,12 @@
+{
+    "name": "sentencesgenerator",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "^4.17.1",
+        "morgan": "^1.9.1"
+    },
+    "author": "pj33720 <pj33720@gmail.com>",
+    "description": "Un générateur de phrases méga droles",
+    "repository": "https://github.com/pjdevs/sentencegenerator",
+    "license": "GPL-3.0"
+}
