@@ -1,1 +1,3 @@
-Un générateur de mots méga drole ! Le plus débile créé
+# Générateur de phrases
+
+Un générateur de phrases méga droles ! Le plus débile créé ....
