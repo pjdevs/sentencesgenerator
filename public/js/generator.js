@@ -40,3 +40,6 @@ sayBtn.addEventListener("click", function() {
 });
 
 populateVoices();
+if (speechSynthesis.onvoiceschanged !== undefined) {
+    speechSynthesis.onvoiceschanged = populateVoices;
+}
